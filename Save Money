@@ -1,0 +1,7 @@
+//This File Contain Save Meney in account 
+Pulic Class Account{
+private int userId;
+private int passwoed;
+private int accNo;
+
+}
