@@ -1,4 +1,0 @@
-This Class Contain current Ac Details.
-Public Class CurrentAc{
-private Int UserName;
-}
